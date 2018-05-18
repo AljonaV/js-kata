@@ -3,13 +3,13 @@ body{
 }
 
 #monster{
-    position: relative;
-    top: -100px;
-    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 450px;
-    left: 380px;
+    width: 350px;
     transform: rotate(180deg);
-    visibility: hidden;
+    
 }
 .button{
     width: 80px;
